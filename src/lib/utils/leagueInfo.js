@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The Funner League</p>
-  <p></p>2.</p>
-  <p></p>3.</p>
+  <p>Welcome to The Funner League</p>
+  </p>Draft Date: Sunday, September 1st @ 0600</p>
+  </p>
   
 `;
 
