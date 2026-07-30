@@ -1,4 +1,4 @@
-<p>		General League Settings
+                   <p>		General League Settings
 </p>
 <p>League Type	- Keeper</p>
 <p>1. Owners can designate 2 players to keep on their roster for next season.</p>
