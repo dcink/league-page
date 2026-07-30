@@ -44,5 +44,4 @@ Prevent Bench Players from Being Dropped After Game Starts	Yes
 Lock All FA and Waiver Moves	No
 Override League Invite Capacity	No
 Time To View {Pending Trades	None
-
 </p>
