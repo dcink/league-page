@@ -1,6 +1,6 @@
 <p>		General League Settings</p>
 
-League Type	- Keeper
+<p>League Type	- Keeper
 1. Owners can designate 2 players to keep on their roster for next season. 
   a. Owners may only keep 1 QB, 1 RB, 1 WR, 1 TE, or 1 DEF each season (Cannot keep 2 players within the same position).
 2. Players drafted in round 1 and 2 cannot be kept. Each keeper will be replaced +2 rounds of where previously drafted. (Exp. player drafted in 3rd round of 2022 will be kept for 1st round 2023). 
