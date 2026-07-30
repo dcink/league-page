@@ -1,1 +1,1 @@
-static/favicons/League Settings.PNG
+import { League Settings.PNG } from "static/favicons"
