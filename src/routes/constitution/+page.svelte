@@ -1,5 +1,14 @@
-                   <p>		General League Settings
-</p>
+<style>
+	.loading {
+		position: relative;
+		z-index: 1;
+        width: 85%;
+        margin: 0 auto 60px;
+        max-width: 800px;
+    }
+</style>
+
+<p>	General League Settings</p>
 <p>League Type	- Keeper</p>
 <p>1. Owners can designate 2 players to keep on their roster for next season.</p>
  <p> a. Owners may only keep 1 QB, 1 RB, 1 WR, 1 TE, or 1 DEF each season (Cannot keep 2 players within the same position).</p>
