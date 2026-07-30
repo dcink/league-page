@@ -43,4 +43,4 @@
 <p>Prevent Bench Players from Being Dropped After Game Starts	Yes</p>
 <p>Lock All FA and Waiver Moves	No</p>
 <p>Override League Invite Capacity	No</p>
-<p>Time To View {Pending Trades	None</p>
+<p>Time To View Pending Trades	None</p>
